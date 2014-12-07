@@ -1,7 +1,6 @@
 ## Script for doing the first project in Exploratory Data Analysis
 ##
 ## The File household_power_consumption.txt should be in the working directory
-setwd("~/Documents/Coursera/ExData_Plotting1")
 library(sqldf)
 library(datasets)
 library(lubridate)
